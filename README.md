@@ -1,12 +1,14 @@
-# React-CRUD
-Basic Reactjs application to add, delete and update records.
+# React-TODO
+Reactjs Starter application to add, delete and update TODO
 
 ## Installation
 * Download the repository and run the following command inside the repo
 ```js
 npm install
 ```
-* Acces the application at 
-```ip
-https://localhost:3000
+* Run the project using
+```json
+npm run start
 ```
+Access the project at https://localhost:3000
+
